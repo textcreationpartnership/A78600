@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A charge delivered in the name of the Army under the command of His Excellency Sir Thomas Fairfax, unto the commissioners of Parliament with the Army, at S. Albans, June 14. 1647. and by them sent up to the Parliament, against several members of the Honorable House of Commons. Also a paper delivered to the said commissioners of Parliament, June 15. from his Excellency Sir Tho: Fairfax, and the Army under his command, of some farther humble proposals and desires to the Honorable Houses of Parliament. Printed and published by the appointment of his Excellency Sir Tho: Fairfax, and the officers and soldiers of the Army under his command. St. Albans, June 17. 1647. Signed by me John Rushworth.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78600</idno>
+            <idno type="STC">Wing C2050</idno>
+            <idno type="STC">Thomason E393_5</idno>
+            <idno type="STC">ESTC R201589</idno>
+            <idno type="EEBO-CITATION">99862088</idno>
+            <idno type="PROQUEST">99862088</idno>
+            <idno type="VID">160297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160297)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A charge delivered in the name of the Army under the command of His Excellency Sir Thomas Fairfax, unto the commissioners of Parliament with the Army, at S. Albans, June 14. 1647. and by them sent up to the Parliament, against several members of the Honorable House of Commons. Also a paper delivered to the said commissioners of Parliament, June 15. from his Excellency Sir Tho: Fairfax, and the Army under his command, of some farther humble proposals and desires to the Honorable Houses of Parliament. Printed and published by the appointment of his Excellency Sir Tho: Fairfax, and the officers and soldiers of the Army under his command. St. Albans, June 17. 1647. Signed by me John Rushworth.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune 18. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Against Denzil Hollis [sic], Sir Philip Stapleton and nine other members of the House of Commons"--Thomason Catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holles, Denzil, --  Baron, 1599-1680 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160297:1"/>
+            <p>A CHARGE Delivered in the Name of the ARMY under the Command of His Excellency Sir <hi>Thomas Fairfax,</hi> Unto the Commiſſioners of Parliament with the Army, at S. <hi>Albans,</hi> June 14. 1647. and by them ſent up to the Parliament, againſt ſeveral Members of the Honorable Houſe of Commons.</p>
+            <p>ALSO A PAPER Delivered to the ſaid COMMISSIONERS of Parlia<g ref="char:EOLhyphen"/>ment, <hi>June</hi> 15. from his Excellency Sir <hi>Tho: Fairfax,</hi> and the Army under his Command, of ſome farther humble Propoſals and Deſires to the Honorable Houſes of PARLIAMENT.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>PRinted and publiſhed by the appointment of his Excellency Sir</hi> Tho: Fairfax, <hi>and the Officers and Soldiers of the Army under his Command.</hi>
+                  </p>
+                  <closer>
+                     <dateline>S. Albans,
+<date>June 17. 1647.</date>
+                     </dateline>
+                     <signed>Signed by me JOHN RUSHWORTH.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Laurence Chapman,</hi> IUNE 18. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:160297:2"/>
+            <pb n="3" facs="tcp:160297:2"/>
+            <head>
+               <hi>June</hi> 14. 1647. The Heads of a Charge, delivered in the name of the Army under the Com<g ref="char:EOLhyphen"/>mand of Sir <hi>Tho. Fairfax,</hi> unto the Com<g ref="char:EOLhyphen"/>miſsioners of Parliament, now with the Army at St. <hi>Albans.</hi>
+            </head>
+            <head type="sub">
+               <hi>To be by them ſent up to the Parliament,</hi> Againſt <hi>Denzil Hollis</hi> Eſquire, Sir <hi>Philip Stapleton,</hi> Sir <hi>William Lewis,</hi> Sir <hi>John Clotworthy,</hi> Sir <hi>William Waller,</hi> Sir <hi>John Maynard,</hi> Knights; Major General <hi>Maſſey</hi> Mr. <hi>Glyn</hi> Recorder of <hi>London,</hi> Colonel <hi>Walter Long,</hi> Colonel <hi>Edward Harley,</hi> and <hi>Anthony Nichol</hi> Eſquire, Members of the Houſe of Commons, joyntly or ſeverally as followeth.</head>
+            <p n="1">1. THat contrary to the Truſt repoſed in them, the perſons above named, Members of the Houſe of Commons, have joyntly or ſeverally invaded, infringed or indeavor<g ref="char:EOLhyphen"/>ed to overthrow the Rights and Liberties of the Subjects of this Nation, in Arbitrary, violent or oppreſſive wayes (and in this caſe where no pretence was, or could be of the exigence of War, or other neceſſity which might juſtifie or excuſe the ſame;) and they
+<pb n="4" facs="tcp:160297:3"/> have likewiſe endeavored by indirect and corrupt practiſes to de<g ref="char:EOLhyphen"/>lay and obſtruct Juſtice, to the great damage and prejudice of divers of the poor Commoners of <hi>England,</hi> Petitioning for the ſame.</p>
+            <p n="2">2. That this Army being until the middle of <hi>March</hi> laſt, in a quiet and orderly condition and poſture, free from any colour or appearance of diſtemper or diſorder, or from offence to any, and ready (upon reaſonable ſatisfaction in their neceſſary dues for ſervice paſt) either quietly to have disbanded, or elſe to have en<g ref="char:EOLhyphen"/>gaged in the ſervice of <hi>Ireland.</hi> The perſons above named have joyntly or ſeverally indeavored by falſe informations, miſrepre<g ref="char:EOLhyphen"/>ſentations, or ſcandalous ſuggeſtions againſt the Army, to beget miſunderſtandings, prejudices, or jealouſies in the Parliament againſt their Army; and by deluding, ſurprizing, or otherwiſe a<g ref="char:EOLhyphen"/>buſing the Parliament, to engage the Authority of Parliament to ſuch proceedings, as to put inſufferable injuries, abuſes, and pro<g ref="char:EOLhyphen"/>vocations upon the Army, whereby to provoke and put the Army into a diſtemper, and to diſoblige and diſcourage the ſame from any further engagement in the Parliament Service: By all which, and other the like particulars and proceedings of theirs, the Peace of this Kingdom hath been eminently endangered, and the relief of <hi>Ireland</hi> retarded.</p>
+            <p n="3">3. That whereas the Parliament might otherwiſe have had out of this Army an intire force, and anſwerable to their proportion deſigned to have engaged for <hi>Ireland</hi> as aforeſaid, under their old Officers and conduct; the perſons above named for advance<g ref="char:EOLhyphen"/>ment of their own ends, faction, and deſigne, to the prejudice of the Publike, have joyntly or ſeverally, under pretence of the ſervice of <hi>Ireland,</hi> endeavored by ſuch evil practiſes as before, to break and pull this Army in pieces, to the weakening of the power, and indangering of the ſafety of the Parliament and Kingdom; and have likewiſe endeavored to put the Parliament and Kingdom, to the trouble, hazard, delay, and vaſt expence of raiſing a new force as for that ſervice.</p>
+            <p n="4">4. That with the breaking of this Army as aforeſaid, they
+<pb n="5" facs="tcp:160297:3"/> have in the like manner indeavored under the pretence of the ſervice of <hi>Ireland,</hi> to raiſe a new force as before to advance and carry on deſperate deſignes of their own in <hi>England,</hi> to the pre<g ref="char:EOLhyphen"/>judice of the Parliament and Publike; and in p<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ance of the ſame have endeavored to divert the forces ingaged as for <hi>Ireland,</hi> and unto ſuch their purpoſe as aforeſaid here in <hi>England;</hi> and have in like manner endeavored to have gained a power from the Parliament for themſelves, or ſome of them, of diverting and miſimploying thoſe forces aforeſaid, and to raiſe new forces un<g ref="char:EOLhyphen"/>der pretence to guard the Parliament, and (not having obtained that) have in like manner endeavored privately to lift and engage Officers and Souldiers, or procure them to be liſted and engaged without Authority of Parliament, for the raiſing of and imbroil<g ref="char:EOLhyphen"/>ing this Kingdom in a new and bloody War, and to interrupt and hinder the ſetling and ſecuring the Rights, Liberties, and Peace of the Kingdom; and for the ſetling, upholding, and pro<g ref="char:EOLhyphen"/>tecting of themſelves and their accomplices, in their unjuſt, op<g ref="char:EOLhyphen"/>preſſive, and Factious deſignes and proceedings.</p>
+            <p n="5">5. That they have joyntly or ſeverally invited, encouraged, abetted or countenanced divers Reformadoes, and other Officers and Souldiers tumultuouſly and violently to gather together at <hi>Weſtminſter,</hi> to affright and aſſault the Members of Parliament, in paſſage to and from the Houſe, to offer violence to the Houſe it ſelf, and by ſuch violence, outrages and threats to awe and inforce the Parliament.</p>
+            <p>The ſeveral Heads of Charge, the Army will by ſuch Soli<g ref="char:EOLhyphen"/>citors as they ſhall appoint (when the Houſe of Commons ſhall admit thereof) make good in particulars each Head againſt ſome of the perſons, and ſome one head or more againſt each of the perſons; and ſhall ſhortly give in the ſeveral parti<g ref="char:EOLhyphen"/>culars againſt each perſon reſpectively, which ſhall be made good by proofs; the Army deſiring to ſave and reſerve to themſelves the liberty of exhibiting any farther Charge againſt all or any of the ſaid perſons.</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:160297:4"/>
+            <head>A Paper delivered to the Right Ho<g ref="char:EOLhyphen"/>norable Commiſsioners of Parliament now with the Army at S. <hi>Albans, June</hi> 15. 1647. <hi>From his Excellency Sir</hi> Tho. Fairfax, <hi>and the Army under his Command:</hi>
+            </head>
+            <opener>Shewing,</opener>
+            <p n="1">I. THat in purſuance of the Repreſentation de<g ref="char:EOLhyphen"/>livered in, we have prepared the Heads of a Charge againſt divers perſons, Members of the Houſe of Commons (to whom many paſſages in the ſaid Repreſentation do relate) which we have delivered in to be ſpeeded to the Parliament, and ſhall (when the Parliament ſhall have admitted thereof) appoint fit perſons on our and the Kingdoms behalfs to proſecute and make good the ſame.</p>
+            <p n="2">II. That if the Parliament ſhall be pleaſed to admit theſe things into Debate and Conſideration at the De<g ref="char:EOLhyphen"/>ſire of the Army, in behalf of themſelves and the
+<pb n="7" facs="tcp:160297:4"/> Kingdom, and to proceed thereupon for a general ſa<g ref="char:EOLhyphen"/>tisfaction therein; we ſhall then deſire,</p>
+            <p n="1">1. That the perſons impeached in the ſaid Charge may be forthwith ſuſpended from ſitting in the Houſe, without which we cannot reaſonably expect ſuch a proceeding upon any the things we have propoſed, as may probably bring the ſame to an happy or timely iſſue to the kingdom or our ſelvs; or as may prevent the preſent Deſigns and practices ſo imminently indanger<g ref="char:EOLhyphen"/>ing the Peace of this Nation, if thoſe ſame perſons (who have notoriouſly appeared moſt active in all the late proceedings, to the prejudice and provocation of the Army, and hazarding thus far the Peace of the Kingdom) ſhall continue in the ſame power Judges of thoſe things relating to the Armies ſatisfaction, and Peace of the Kingdom.</p>
+            <p n="2">2. That there may be at leaſt a Moneths pay im<g ref="char:EOLhyphen"/>mediately ſent down to the Army for a preſent ſup<g ref="char:EOLhyphen"/>ply, out of which the Army ſhall pay Fourteen days quarter for time to come, and the other Fourteen days pay ſhall be accompted as part of Arrears. And to this we muſt deſire a preſent Reſolution to be with us on Thurſday next by noon at fartheſt.</p>
+            <p n="3">3. That if the Officers and Soldiers of the Army, who have ingaged for <hi>Ireland,</hi> or thoſe who have de<g ref="char:EOLhyphen"/>ſerted the Army and come to <hi>London,</hi> have ſince then received more then a Moneths pay, there may be ſo much more money ſent down to the Army (above the Moneths pay aforementioned) as may make up that Moneths pay to the Army equal to what ſuch Officers
+<pb n="8" facs="tcp:160297:5"/> and Soldiers have ſo received at <hi>London</hi> or elſwhere.</p>
+            <p n="4">4. That no Officers or Soldiers who have ſo de<g ref="char:EOLhyphen"/>ſerted the Army ſhall have any more paid them as for Arrears, until the reſt of the Army ſhall firſt be ſatiſ<g ref="char:EOLhyphen"/>fied in point of their Arrears.</p>
+            <p n="5">5. Whereas there have been ſeveral Deſigns and Endeavors, without Authority from tne Parliament, to raiſe and Liſt new Forces within this Kingdom, to draw together the Forces ingaged for <hi>Ireland,</hi> and march them towards <hi>London,</hi> and other ſecret practi<g ref="char:EOLhyphen"/>ces to ingage the Kingdom in a ſecond War; We fur<g ref="char:EOLhyphen"/>ther deſire, That during the Debates and Tranſaction of this buſineſs betwixt the Parliament and the Army, the Parliament would not ſuffer any new Forces to be raiſed within this kingdom, or any Forces to be invited or admitted out of any other Kingdom to this, or any thing elſe to be done, that may carry the face of a new War, or of preparations thereunto, which may indan<g ref="char:EOLhyphen"/>ger or interrupt the preſent proceeding to the ſettle<g ref="char:EOLhyphen"/>ment of the Liberties and peace of this Kingdom.</p>
+            <p n="6">6. That the Parliament would be pleaſed (without delay) to put the things contained in our ſeveral Repre<g ref="char:EOLhyphen"/>ſentations and Papers already given in, into a ſpeedy way of reſolution and diſpatch, The preſent poſture and condition of the Kingdom and Army, As alſo of His Majeſty himſelf not admitting Delays.</p>
+            <closer>
+               <signed>
+                  <hi>By appointment of his Excellency Sir</hi> Tho: Fairfax, <hi>and Soldiers of the Army under his Command.</hi> Signed by me JOHN RUSHWORTH.</signed>
+               <dateline>S. Albans,
+<date>June 17. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
